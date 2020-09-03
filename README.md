@@ -1,5 +1,25 @@
-# 1 on 1 Meeting Questions
-Mega list compiled from a variety to sources. Also available here: http://www.managersclub.com/mega-list-of-1-on-1-meeting-questions/
+# 1:1 Meeting Questions 😎
+
+Mega list compiled from a variety to sources.
+
+### TL;DR 👍🏽
+
+1. What’s top of mind for you right now?
+2. What priorities are you thinking about this week?
+3. What’s the best use of our time today?
+
+Once you identify what’s top of mind for your employee, you can move on to ask questions that help you understand the root of the problem and what can be done about it. Here are some of the questions suggested by Zhuo:
+
+1. What does your ideal outcome look like?
+2. What do you think is the best course of action?
+3. What’s hard for you in getting to that outcome?
+
+Finally, you can ask questions to offer your direct report your support. Here are two questions that Zhuo likes to ask:
+
+1. What can I do to make you more successful?
+2. What was the most useful part of our conversation today?
+
+=================================================
 
 ## Table of Contents
 - [About Manager](#about-manager)
