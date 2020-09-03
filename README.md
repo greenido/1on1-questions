@@ -2,6 +2,8 @@
 
 Mega list compiled from a variety to sources.
 
+![](https://github.com/greenido/1on1-questions/blob/master/Screen%20Shot%202020-09-03%20at%2010.41.33.png?raw=true)
+
 ### TL;DR 👍🏽
 
 1. What’s top of mind for you right now?
